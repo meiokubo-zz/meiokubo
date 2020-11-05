@@ -4,7 +4,7 @@
 **masaakifuruki/masaakifuruki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [Autopilot budgeting app](https://github.com/masaakifuruki) for Fiancial Independence, Retire Early
+- 🔭 I’m currently working on [Autopilot budgeting app](https://www.doller.app) for Fiancial Independence, Retire Early
 - 🌱 I’m currently learning more Ruby and JavaScript
 - 👯 I’m looking to collaborate on Data visualization and interactive tool for cunsumer financial data
 - 🤔 I’m looking for help with Machine Learning
