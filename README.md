@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Data visualization and interactive tool for cunsumer financial data
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Ruby
-- 📫 How to reach me: [hercode@pm.me](hercode@pm.me)
+- 📫 How to reach me: [twitter](https://twitter.com/masaakifuruki)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've been rejuvinaling myself every 7 years 😈
 #
