@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on [Autopilot budgeting app](https://www.doller.app) for Fiancial Independence, Retire Early
-- 🌱 I’m currently learning more Ruby and JavaScript
+- 🌱 I’m currently learning more Go and Python
 - 👯 I’m looking to collaborate on Data visualization and interactive tool for cunsumer financial data
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Ruby
