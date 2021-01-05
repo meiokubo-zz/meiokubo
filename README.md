@@ -20,7 +20,7 @@
 <br />
  🦄 Looking to learn Marchine Learning and Data Science.
 <br />
- ⚡ Fun fact: I've been rejuvinaling myself every 7 years 😈
+ ⚡ Fun fact: I've been rejuvenating myself every 7 years 😈
 <br />
  📫 DM me on [twitter](https://twitter.com/masaakifuruki)
 <br />
