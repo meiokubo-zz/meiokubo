@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ Hi there 👋 I'm Masa. I started [#hackwith](https://www.hackwith.org/) movement recently. It's an online coding workshop inspired by [Learn Enough To Be Dangerous](https://www.learnenough.com/)!
+
 <!--
 **masaakifuruki/masaakifuruki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -21,6 +23,8 @@
  ⚡ Fun fact: I've been rejuvinaling myself every 7 years 😈
 <br />
  📫 DM me on [twitter](https://twitter.com/masaakifuruki)
+<br />
+ 👀 More about me on [masa.hackwith.org](https://masa.hackwith.org)
 <br />
 
 #
