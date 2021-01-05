@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm Masa. I started [#hackwith](https://www.hackwith.org/) movement recently. It's an online coding workshop inspired by [Learn Enough To Be Dangerous](https://www.learnenough.com/)!
+ I'm Masa. I started [#hackwith](https://www.hackwith.org/) movement recently. It's an online coding workshop newsletter inspired by [Learn Enough To Be Dangerous](https://www.learnenough.com/)!
 
 <!--
 **masaakifuruki/masaakifuruki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,13 +12,13 @@
 <br />
  💛 I care about equality, sustainability, and public safety.
 <br />
- 🚀 I code with Ruby, JavaScript, SQL, HTML, CSS, SCSS, Liquid, and more.
+ 🚀 I code with [Ruby](https://www.ruby-lang.org/en/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS, and more.
 <br />
  🍄 I'm developing the autopilot budgeting app [Doller](https://www.doller.app) for Financial Independence, Retire Early.
 <br />
  🦄 I'm interested in Machine Learning and Data Science.
 <br />
- ✏️ Looking to learn native app development with Electron and Swift.
+ ✏️ Looking to learn native app development with [Electron](https://www.electronjs.org/) and [Swift](https://developer.apple.com/swift/).
 <br />
  🌈 LGBTQ Activist
 <br />
