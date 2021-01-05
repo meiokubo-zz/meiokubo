@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Hi there 👋 I'm Masa. I started [#hackwith](https://www.hackwith.org/) movement recently. It's an online coding workshop inspired by [Learn Enough To Be Dangerous](https://www.learnenough.com/)!
+ I'm Masa. I started [#hackwith](https://www.hackwith.org/) movement recently. It's an online coding workshop inspired by [Learn Enough To Be Dangerous](https://www.learnenough.com/)!
 
 <!--
 **masaakifuruki/masaakifuruki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
