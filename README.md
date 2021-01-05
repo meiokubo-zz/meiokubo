@@ -8,8 +8,6 @@
 
  ⚧ Pronouns: She/Her
 <br />
- 🌈 LGBTQ Activist
-<br />
  ✊ I hack with purpose.
 <br />
  💛 I care about equality, sustainability, and public safety.
@@ -20,13 +18,14 @@
 <br />
  🦄 I'm interested in Machine Learning and Data Science.
 <br />
- 🦄 I'm interested in Machine Learning and Data Science.
-<br />
  ✏️ Looking to learn native app development with Electron and Swift.
+<br />
+ 🌈 LGBTQ Activist
 <br />
  ⚡ Fun fact: I've been rejuvenating myself every 7 years 😈
 <br />
  📷 [Vsco](https://vsco.co/dancewithpigeons/gallery)
+<br />
  📫 DM me on [twitter](https://twitter.com/masaakifuruki)
 <br />
  👀 More about me on [masa.hackwith.org](https://masa.hackwith.org)
