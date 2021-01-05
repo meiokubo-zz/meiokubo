@@ -8,26 +8,31 @@
 
  ⚧ Pronouns: She/Her
 <br />
+ 🌈 LGBTQ Activist
+<br />
  ✊ I hack with purpose.
 <br />
  💛 I care about equality, sustainability, and public safety.
 <br />
  🚀 I code with Ruby, JavaScript, SQL, HTML, CSS, SCSS, Liquid, and more.
 <br />
- 🍄 I'm developing the autopilot budgeting app [Doller](https://www.doller.app) for Fiancial Independence, Retire Early.
+ 🍄 I'm developing the autopilot budgeting app [Doller](https://www.doller.app) for Financial Independence, Retire Early.
 <br />
- 🌈 LGBTQ Activist
+ 🦄 I'm interested in Machine Learning and Data Science.
 <br />
- 🦄 Looking to learn Marchine Learning and Data Science.
+ 🦄 I'm interested in Machine Learning and Data Science.
+<br />
+ ✏️ Looking to learn native app development with Electron and Swift.
 <br />
  ⚡ Fun fact: I've been rejuvenating myself every 7 years 😈
 <br />
+ 📷 [Vsco](https://vsco.co/dancewithpigeons/gallery)
  📫 DM me on [twitter](https://twitter.com/masaakifuruki)
 <br />
  👀 More about me on [masa.hackwith.org](https://masa.hackwith.org)
 <br />
 
 #
- ⚜️ Certificate of Completion for Learn Enough Courses
+#### ⚜️ Certificate of Completion for Learn Enough Courses
 <br />
 <a href="https://www.learnenough.com/certificates/mfuruki"><img src="https://www.learnenough.com/certificates/mfuruki/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/mfuruki"><img src="https://www.learnenough.com/certificates/mfuruki/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/mfuruki"><img src="https://www.learnenough.com/certificates/mfuruki/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/mfuruki"><img src="https://www.learnenough.com/certificates/mfuruki/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/mfuruki"><img src="https://www.learnenough.com/certificates/mfuruki/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/mfuruki"><img src="https://www.learnenough.com/certificates/mfuruki/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a><a href="https://www.learnenough.com/certificates/mfuruki"><img src="https://www.learnenough.com/certificates/mfuruki/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/mfuruki"><img src="https://www.learnenough.com/certificates/mfuruki/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a><a href="https://www.learnenough.com/certificates/mfuruki"><img src="https://www.learnenough.com/certificates/mfuruki/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
