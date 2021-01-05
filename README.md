@@ -4,14 +4,16 @@
 **masaakifuruki/masaakifuruki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [Autopilot budgeting app](https://www.doller.app) for Fiancial Independence, Retire Early
-- 🌱 I’m currently learning more Go and Python
-- 👯 I’m looking to collaborate on Data visualization and interactive tool for cunsumer financial data
-- 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about Ruby
-- 📫 How to reach me: [twitter](https://twitter.com/masaakifuruki)
-- 😄 Pronouns: She/Her
+- ⚧ Pronouns: She/Her
+- ✊ I hack with purpose.
+- 💛 I care about equality, sustainability, and public safety.
+- 🚀 I code with Ruby, JavaScript, SQL, HTML, CSS, SCSS, Liquid, and more.
+- 🍄 I'm developing the autopilot budgeting app [Doller](https://www.doller.app) for Fiancial Independence, Retire Early.
+- 🌈 LGBTQ Activist
+- 🦄 Looking to learn Marchine Learning and Data Science.
 - ⚡ Fun fact: I've been rejuvinaling myself every 7 years 😈
+- 📫 DM me on [twitter](https://twitter.com/masaakifuruki)
+
 #
 - ⚜️ Certificate of Completion for Learn Enough Courses
 <br />
