@@ -1,10 +1,10 @@
-### Hi there 👋
-
- I'm Masa. I started [#hackwith](https://www.hackwith.org/) movement recently. It's an online coding workshop newsletter inspired by [Learn Enough To Be Dangerous](https://www.learnenough.com/)!
-
 <!--
 **masaakifuruki/masaakifuruki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+### Hi there 👋
+
+ I'm Masa. I started [#hackwith](https://www.hackwith.org/) movement recently. It's an online coding workshop newsletter inspired by [Learn Enough To Be Dangerous](https://www.learnenough.com/)!
 
  ⚧ Pronouns: She/Her
 <br />
@@ -33,6 +33,12 @@
 
 ### Join the movement ✊
 📧 Sing up on my [Substack](https://hackwith.substack.com/)
+
+### How I'm doing on Github 👩🏻‍💻
+
+[![Masaaki's github stats](https://github-readme-stats.vercel.app/api?username=masaakifuruki&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masaakifuruki&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 #### ⚜️ Certificate of Completion for Learn Enough Courses
