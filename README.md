@@ -34,7 +34,7 @@
 #
 
 ### Join the #hackwith movement ✊
-#hackwith is the coding tutorial newsletter that thrive with you. Start building life hack apps with me and take your coding game to the next level. 🚀
+#hackwith is the coding tutorial newsletter that thrives with you. Start building life hack apps with me and take your coding game to the next level. 🚀
 
 📧 Sing up from [Substack](https://hackwith.substack.com/) to get started!!
 
