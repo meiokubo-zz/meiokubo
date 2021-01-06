@@ -42,9 +42,9 @@
 
 ### How I'm doing on Github 👩🏻‍💻
 
-[![Masaaki's github stats](https://github-readme-stats.vercel.app/api?username=masaakifuruki&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Masaaki's github stats](https://github-readme-stats.vercel.app/api?username=masaakifuruki&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masaakifuruki&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masaakifuruki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 #### ⚜️ Certificate of Completion for Learn Enough Courses
