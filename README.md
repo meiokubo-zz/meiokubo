@@ -31,6 +31,9 @@
  👀 More about me on [masa.hackwith.org](https://masa.hackwith.org)
 <br />
 
+### ✊ Join the movement
+📧 Sing up on my [Substack](https://hackwith.substack.com/)
+
 #
 #### ⚜️ Certificate of Completion for Learn Enough Courses
 <br />
