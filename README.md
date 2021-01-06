@@ -31,7 +31,7 @@
  👀 More about me on [masa.hackwith.org](https://masa.hackwith.org)
 <br />
 
-### ✊ Join the movement
+### Join the movement ✊
 📧 Sing up on my [Substack](https://hackwith.substack.com/)
 
 #
