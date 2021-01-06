@@ -31,8 +31,14 @@
  👀 More about me on [masa.hackwith.org](https://masa.hackwith.org)
 <br />
 
-### Join the movement ✊
-📧 Sing up on my [Substack](https://hackwith.substack.com/)
+#
+
+### Join the #hackwith movement ✊
+#hackwith the coding tutorial newsletter that thrive with you. Take your coding game to the next level.
+
+📧 Sing up from [Substack](https://hackwith.substack.com/) to get started!!
+
+#
 
 ### How I'm doing on Github 👩🏻‍💻
 
