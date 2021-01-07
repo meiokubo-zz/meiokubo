@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
- I'm Masa. I started [#hackwith](https://www.hackwith.org/) movement recently. It's an online coding workshop newsletter inspired by [Learn Enough To Be Dangerous](https://www.learnenough.com/)!
+ I'm Masa. I'm Masaaki (She/Her) 👩🏻‍💻🏡 Co-founder [@doller](https://www.doller.app/), [@hackwith](https://hackwith.org), [@kitchensOn](https://kitchenson.app).
 
  ⚧ Pronouns: She/Her
 <br />
@@ -34,7 +34,7 @@
 #
 
 ### Join the #hackwith movement ✊
-#hackwith is the coding tutorial newsletter that thrives with you. Start building life hack apps with me and take your coding game to the next level. 🚀
+#hackwith is the DYI coding tutorial newsletter that thrives with you. Start building life hack apps with me and take your coding game to the next level. 🚀
 
 📧 Sing up from [Substack](https://hackwith.substack.com/) to get started!!
 
