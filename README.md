@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
- I'm Masa. I'm Masaaki (She/Her) 👩🏻‍💻🏡 Co-founder [@doller](https://www.doller.app/), [@hackwith](https://hackwith.org), [@kitchensOn](https://kitchenson.app).
+ I'm Masaaki 👩🏻‍💻🏡 Co-founder [@doller](https://www.doller.app/), [@hackwith](https://hackwith.org), [@kitchensOn](https://kitchenson.app).
 
  ⚧ Pronouns: She/Her
 <br />
