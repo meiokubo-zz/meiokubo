@@ -28,7 +28,7 @@
 <br />
  📫 DM me on [twitter](https://twitter.com/masaakifuruki)
 <br />
- 👀 More about me on [masa.hackwith.org](https://masa.hackwith.org)
+ 👀 More about me on [mei.hackwith.org](https://mei.hackwith.org)
 <br />
 
 #
