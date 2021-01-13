@@ -26,7 +26,7 @@
 <br />
  📷 [Vsco](https://vsco.co/dancewithpigeons/gallery)
 <br />
- 📫 DM me on [twitter](https://twitter.com/masaakifuruki)
+ 📫 DM me on [twitter](https://twitter.com/meiokubo)
 <br />
  👀 More about me on [mei.hackwith.org](https://mei.hackwith.org)
 <br />
