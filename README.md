@@ -4,25 +4,25 @@
 
 ### Hi there 👋
 
- I'm Mei 👩🏻‍💻🏡, a Full Stack Engineer, Co-founder [@doller](https://www.doller.app/), [@hackwith](https://hackwith.org), [@kitchensOn](https://kitchenson.app). Formerly Masaaki Furuki.
+ I'm Mei 👩🏻‍💻🏡, a yoga girl who \#hackwith purpose, Co-founder [@hackwith](https://www.hackwith.org/), mainly Web Dev/DevOps. Formerly Masaaki Furuki or Masaaki Ōkubo.
 
  ⚧ Pronouns: She/Her
 <br />
  ✊ I hack with purpose.
 <br />
+ 🌈 LGBTQ Activist
+<br />
  💛 I care about equality, sustainability, and public safety.
 <br />
  🚀 I code with [Ruby](https://www.ruby-lang.org/en/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS, and more.
-<br />
- 🍄 I'm developing the autopilot budgeting app [Doller](https://www.doller.app) for Financial Independence, Retire Early.
 <br />
  🦄 I'm interested in Machine Learning and Data Science.
 <br />
  ✏️ Looking to learn native app development with [Electron](https://www.electronjs.org/) and [Swift](https://developer.apple.com/swift/).
 <br />
- 🌈 LGBTQ Activist
-<br />
  ⚡ Fun fact: I've been rejuvenating myself every 7 years 😈
+<br />
+ 🎧 [Spotify](https://open.spotify.com/user/rhgv4a8bs7g4wz80ivxat5xwy)
 <br />
  📷 [Vsco](https://vsco.co/dancewithpigeons/gallery)
 <br />
