@@ -4,7 +4,8 @@
 
 ### Hi there 👋
 
- I'm Mei 👩🏻‍💻🏡, a yoga girl who \#hackwith purpose, Co-founder [@hackwith](https://www.hackwith.org/), mainly Web Dev/DevOps. Formerly Masaaki Furuki or Masaaki Ōkubo.
+ I'm Mei 👩🏻‍💻🏡, social for dWeb, building a webbing/permalink.2021 
+@hackwith365, mainly back-end/DevOps. ♐💔 orz..
 
  ⚧ Pronouns: She/Her
 <br />
