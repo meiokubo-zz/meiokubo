@@ -5,7 +5,7 @@
 ### Hi there 👋
 
  I'm Mei 👩🏻‍💻🏡, social for dWeb, building a webbing/permalink.2021 
-@hackwith365, mainly back-end/DevOps. ♐💔 orz..
+@hackwith365, mainly DevOps/Support. ♐💔 orz..
 
  ⚧ Pronouns: She/Her
 <br />
