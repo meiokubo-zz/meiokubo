@@ -17,7 +17,7 @@
 <br />
  🚀 I code with [Ruby](https://www.ruby-lang.org/en/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS, and more.
 <br />
- 🦄 I'm interested in Machine Learning and Data Science.
+ 👩🏻‍🎓 I study Computer Science and U.S. Laws.
 <br />
  ✏️ Looking to learn native app development with [Electron](https://www.electronjs.org/) and [Swift](https://developer.apple.com/swift/).
 <br />
