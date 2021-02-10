@@ -29,7 +29,7 @@
 <br />
  📫 DM me on [twitter](https://twitter.com/meiokubo)
 <br />
- 👀 More about me on [mei.hackwith.org](https://mei.hackwith.org)
+ 👀 More about me on [meiokubo.github.io](https://meiokubo.github.io)
 <br />
 
 #
