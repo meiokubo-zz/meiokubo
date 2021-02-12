@@ -3,27 +3,23 @@
 -->
 
 ### Hi there 👋
+My name is Mei Ōkubo, a DevOps/Support Engineer. Please call me Mei. It sounds just like May.
 
- I'm Mei 👩🏻‍💻🏡, social for dWeb, building a webbing/permalink.2021 
-@hackwith365, mainly DevOps/Support. ♐💔 orz..
-
- ⚧ Pronouns: She/Her
-<br />
- ✊ I hack with purpose.
-<br />
- 🌈 LGBTQ Activist
-<br />
- 💛 I care about equality, sustainability, and public safety.
+ ⚧ Pronouns: She/Her/Hers
 <br />
  🚀 I code with [Ruby](https://www.ruby-lang.org/en/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS, and more.
 <br />
  👩🏻‍🎓 I study Computer Science and U.S. Laws.
 <br />
- ✏️ Looking to learn native app development with [Electron](https://www.electronjs.org/) and [Swift](https://developer.apple.com/swift/).
+ ✏️ Looking to learn .Net, Azure, C# in 2021!
+<br />
+ 🌈 LGBTQ Activist
+<br />
+ 💛 I care about equality, sustainability, and public safety.
 <br />
  ⚡ Fun fact: I've been rejuvenating myself every 7 years 😈
 <br />
- 🎧 [Spotify](https://open.spotify.com/user/rhgv4a8bs7g4wz80ivxat5xwy)
+ 🎧 [My Spotify](https://open.spotify.com/user/rhgv4a8bs7g4wz80ivxat5xwy)
 <br />
  📷 [Vsco](https://vsco.co/dancewithpigeons/gallery)
 <br />
@@ -34,9 +30,9 @@
 
 #
 
-### Join the #hackwith movement ✊
-#hackwith is the DYI coding tutorial newsletter that thrives with you. Start building life hack apps with me and take your coding game to the next level. 🚀
+### Join The Movement ✊
 
+#hackwith is the DYI coding tutorial newsletter that thrives with you. Start building life hack apps with me and take your coding game to the next level. 🚀
 📧 Sing up from [Substack](https://hackwith.substack.com/) to get started!!
 
 #
