@@ -7,11 +7,11 @@ My name is Mei Ōkubo, a DevOps/Support Engineer. Please call me Mei. It sounds 
 
  ⚧ Pronouns: She/Her/Hers
 <br />
- 🚀 I code with [Ruby](https://www.ruby-lang.org/en/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS, and more.
+ ✏️ I code with [Ruby](https://www.ruby-lang.org/en/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS, and more.
 <br />
  👩🏻‍🎓 I study Computer Science and U.S. Laws.
 <br />
- ✏️ Looking to deploy more with [Azure](https://azure.microsoft.com/en-us/) in 2021!
+ 🚀 Looking to deploy more with [Azure](https://azure.microsoft.com/en-us/) in 2021!
 <br />
 
 #
