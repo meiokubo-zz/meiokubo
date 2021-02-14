@@ -13,27 +13,6 @@ My name is Mei Ōkubo, a DevOps/Support Engineer. Please call me Mei. It sounds 
 <br />
  ✏️ Looking to deploy more with [Azure](https://azure.microsoft.com/en-us/) in 2021!
 <br />
- 🌈 LGBTQ Activist
-<br />
- 💛 I care about equality, sustainability, and public safety.
-<br />
- ⚡ Fun fact: I've been rejuvenating myself every 7 years 😈
-<br />
- 🎧 [My Spotify](https://open.spotify.com/user/rhgv4a8bs7g4wz80ivxat5xwy)
-<br />
- 📷 [Vsco](https://vsco.co/dancewithpigeons/gallery)
-<br />
- 📫 DM me on [twitter](https://twitter.com/meiokubo)
-<br />
- 👀 More about me on [meiokubo.github.io](https://meiokubo.github.io)
-<br />
-
-#
-
-### Join The Movement ✊
-
-#hackwith is the DYI coding tutorial newsletter that thrives with you. Start building life hack apps with me and take your coding game to the next level. 🚀
-📧 Sing up from [Substack](https://hackwith.substack.com/) to get started!!
 
 #
 
