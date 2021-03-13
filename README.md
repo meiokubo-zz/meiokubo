@@ -3,7 +3,7 @@
 -->
 
 ### Hi there 👋
-My name is Mei Ōkubo, a DevOps/Support Engineer. Please call me Mei. It sounds just like May.
+My name is Mei Ōkubo, a Support/DevOps Engineer. Please call me Mei. It sounds just like May.
 
  ⚧ Pronouns: She/Her/Hers
 <br />
@@ -12,6 +12,8 @@ My name is Mei Ōkubo, a DevOps/Support Engineer. Please call me Mei. It sounds 
  👩🏻‍🎓 I study Computer Science and U.S. Laws.
 <br />
  ♿️ I'm with [Autism/ASD](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders)
+<br />
+ ✊ LGBTQ+/Civil rights acrivist
 <br />
  🌈 California (USA)
 <br />
