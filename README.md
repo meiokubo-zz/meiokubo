@@ -13,7 +13,7 @@ I'm Mei, a Support/DevOps Engineer.👩🏻‍💻🏡 Helping all size of busin
 <br />
  ♿️ I'm with [Autism/ASD](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders)
 <br />
- ✊ LGBTQ+/Civil rights acrivist
+ ✊ LGBTQ+/Civil rights activist
 <br />
  🌈 California (USA)
 <br />
