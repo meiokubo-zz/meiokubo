@@ -3,7 +3,7 @@
 -->
 
 ### Hi there 👋
-My name is Mei Ōkubo, a Support/DevOps Engineer. Please call me Mei. It sounds just like May.
+I'm Mei, a Support/DevOps Engineer.👩🏻‍💻🏡 Helping all size of business by providing techical solutions [@soketton](https://github.com/soketton), building the autopilot budgeting app for F.I.R.E. movement [@dolleron](https://github.com/dolleron) and building developer tools for people with all abilities [@hackwith](https://github.com/hackwith365).
 
  ⚧ Pronouns: She/Her/Hers
 <br />
