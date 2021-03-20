@@ -15,9 +15,9 @@ I'm Mei, a Support/DevOps Engineer.👩🏻‍💻🏡 Helping all size of busin
 <br />
  ✊ LGBTQ+/Civil rights activist
 <br />
- 🌈 California (USA)
-<br />
 🚀 Looking to deploy more with [Azure](https://azure.microsoft.com/en-us/) in 2021!
+<br />
+ 🌈 California (USA)
 <br />
 
 #
