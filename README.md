@@ -3,7 +3,7 @@
 -->
 
 ### Hi there 👋
-I'm Mei, a Support/DevOps Engineer.👩🏻‍💻🏡 Helping all size of business by providing techical solutions [@soketton](https://github.com/soketton), building the autopilot budgeting app for F.I.R.E. movement [@dolleron](https://github.com/dolleron) and prototyping accessibility techs [@hackwith](https://github.com/hackwith365).
+I'm Mei, a Support/DevOps Engineer [@soketton](https://github.com/soketton), helping all sizes of business with technical solutions for the future of workspace.👩🏻‍💻🏡 Coming from surviving severe autism and ADHD in school, I'm on the mission to make the future of workspace accessible. I'm also building the autopilot budgeting app for people with development disorders [@dolleron](https://github.com/dolleron) and [@hackwith](https://github.com/hackwith365).
 
  ⚧ Pronouns: She/Her/Hers
 <br />
