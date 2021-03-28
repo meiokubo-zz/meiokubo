@@ -7,11 +7,11 @@ I'm Mei, a Support/DevOps Engineer [@soketton](https://github.com/soketton), hel
 
  ⚧ Pronouns: She/Her/Hers
 <br />
- ♿️ I'm with [Autism/ASD](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders) and [ADHD](https://www.cdc.gov/ncbddd/adhd/facts.html).
+ ♿️ I'm with [Autism/ASD](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders) and [ADHD](https://www.cdc.gov/ncbddd/adhd/facts.html)
 <br />
- 🚀 I code with [Ruby](https://www.ruby-lang.org/en/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS.
+ 🚀 I code with [Ruby](https://www.ruby-lang.org/en/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS
 <br />
- ✏️ I study Computer Science and U.S. Laws.
+ ✏️ I study Computer Science and U.S. Laws
 <br />
  💛 I care about equality, sustainability, and public safety
 <br />
