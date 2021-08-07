@@ -8,11 +8,7 @@ I'm on the mission to democratize [Financial Independent, Retire Early](https://
 
  ⚧ Pronouns: She/Her/Hers  
  👩🏻‍💻 I code with [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS, [Marckdown](https://daringfireball.net/projects/markdown/)  
- ✏️ I study Computer Science, U.S. Laws, and Accessibility  
- 💛 I care about equality, sustainability, and public safety  
- ✊ Activism I hyped: LGBTQIA Rights, Climate Change, Animal Rights, Autism Awareness  
- 👭 Asks: Follow [@heydoller](https://twitter.com/heydoller) on Twitter  
- 🈂️ Offers: Penetration (vulnerabilities) testing  
+ 👐 Ask: Someone practice [American sign language](https://youtu.be/v1desDduz5M) with me  
  🧁 Fun facts:
  - I'm taking 40+ courses on Coursera atm
  - I create a [Better Coursera Dashboard](https://trello.com/b/60c8343e6de39856a0b1b294) with Trello to track all these due dates
