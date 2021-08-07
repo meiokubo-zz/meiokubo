@@ -7,6 +7,7 @@ I'm Mei, learning CS/Law/Feminism/Social Justice on [Coursera](http://fbuy.me/v/
 I'm on the mission to democratize [Financial Independent, Retire Early](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp) a.k.a. [FIRE movement](https://en.wikipedia.org/wiki/FIRE_movement) for kids with development disorders with the autopilot budgeting app [@dolleron](https://github.com/dolleron).
 
  ⚧ Pronouns: She/Her/Hers  
+ 🐾 Other name: HackByMandy24  
  👩🏻‍💻 I code with [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS, [Marckdown](https://daringfireball.net/projects/markdown/)  
  👐 Ask: Someone practice [American sign language](https://youtu.be/v1desDduz5M) with me  
  🧁 Fun facts:
