@@ -7,7 +7,6 @@ I'm Mei, a CS/Law student with Autism/ADHD who wants to become a solution archit
 I'm on the mission to democratize [Financial Independent, Retire Early](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp) a.k.a. [FIRE movement](https://en.wikipedia.org/wiki/FIRE_movement) for kids with development disorders with the autopilot budgeting app [@dolleron](https://github.com/dolleron).
 
  ⚧ Pronouns: She/Her/Hers  
- ♿️ I'm with [Autism/ASD](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders) and [ADHD](https://www.cdc.gov/ncbddd/adhd/facts.html)  
  👩🏻‍💻 I code with [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Liquid](https://shopify.github.io/liquid/), SQL, HTML, CSS, SCSS, [Marckdown](https://daringfireball.net/projects/markdown/)  
  ✏️ I study Computer Science, U.S. Laws, and Accessibility  
  💛 I care about equality, sustainability, and public safety  
