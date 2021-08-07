@@ -3,7 +3,7 @@
 -->
 
 ### 👋 Hi there
-I'm Mei, learning CS/Law/Feminism/Social Justice on Coursera.    
+I'm Mei, learning CS/Law/Feminism/Social Justice on [Coursera](http://fbuy.me/v/meiokubo365).    
 I'm on the mission to democratize [Financial Independent, Retire Early](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp) a.k.a. [FIRE movement](https://en.wikipedia.org/wiki/FIRE_movement) for kids with development disorders with the autopilot budgeting app [@dolleron](https://github.com/dolleron).
 
  ⚧ Pronouns: She/Her/Hers  
